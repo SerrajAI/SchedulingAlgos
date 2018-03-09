@@ -1,0 +1,17 @@
+T = 0 : A est elu dans le CPU 1
+T = 1 : B est elu dans le CPU 2
+T = 1 : C est pret 
+T = 2 : D est pret 
+T = 4 : A passe en E/S
+T = 4 : C est elu CPU 1
+T = 5 : B est bloque
+T = 5 : D est elu CPU 2
+T = 6 : A a termine
+T = 6 : C est bloque
+T = 6 : D est bloque
+T = 6 : B passe a e/s
+T = 7 : B a termine
+T = 7 : C passe a e/s
+T = 8 : C a termine
+T = 8 : D passe a e/s
+T = 10 : D a termine

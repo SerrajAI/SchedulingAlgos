@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1458124327 source:c:\users\sai\desktop\se final\minip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1458124327 source:c:\users\sai\documents\mes etudes\2\projects\se final\minip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+

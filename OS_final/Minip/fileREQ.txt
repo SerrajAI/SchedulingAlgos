@@ -1,0 +1,4 @@
+T = 1 : P65 est elu dans le CPU 1
+T = 5 : A passe en E/S
+T = 6 : A est elu dans le CPU 1
+T = 8 : A a termine

@@ -1,0 +1,15 @@
+T = 0 : P65 est elu dans le CPU 1
+T = 1 : P67 est elu dans le CPU 2
+T = 1 : P66 est pret 
+T = 2 : P68 est pret 
+T = 3 : C passe en E/S
+T = 3 : D est elu dans CPU 2
+T = 4 : C a termine
+T = 4 : A passe en E/S
+T = 4 : D est bloque
+T = 4 : B est elu CPU 1
+T = 6 : A a termine
+T = 6 : D passe a e/s
+T = 8 : D a termine
+T = 8 : B passe en E/S
+T = 9 : B a termine
